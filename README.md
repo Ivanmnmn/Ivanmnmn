@@ -35,7 +35,8 @@
 - [Go Projects](https://github.com/Ivanmnmn/go-projects)
 - [Frontend Projects](https://github.com/Ivanmnmn/frontend-projects)
 
-📜 [Сертификаты и дипломы](ссылка на Google Drive)
+###📜 Сертификаты и дипломы
+- https://github.com/Ivanmnmn/certificates
 
 ---
 
