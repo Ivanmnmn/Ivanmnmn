@@ -25,23 +25,17 @@
 
 ## 📌 Проекты
 
-### 🐍 Python-разработка
-- **[Название пет-проекта]** – REST API для ... (FastAPI, PostgreSQL, Docker).  
-  [Репозиторий](ссылка)
+### 🚀 Пет-проекты
+- [Task Manager](https://github.com/Ivanmnmn/task-manager) – менеджер задач на FastAPI
+- [Text Frequency Exporter](https://github.com/Ivanmnmn/text-freq-exporter) – сервис подсчёта частоты слов с конкурентной обработкой
+- [Job Parser with Selectel](https://github.com/Ivanmnmn/job-parser-with-selectel) – парсинг вакансий с интеграцией
 
-- **[Название второго проекта]** – веб-скрапинг / телеграм-бот и т.п.  
-  [Репозиторий](ссылка)
+### 📚 Учебные проекты
+- [Python Projects](https://github.com/Ivanmnmn/python-projects)
+- [Go Projects](https://github.com/Ivanmnmn/go-projects)
+- [Frontend Projects](https://github.com/Ivanmnmn/frontend-projects)
 
-### 📈 Data Science / Аналитика
-- **[Анализ данных о ...]** – исследование датасета, визуализация, выводы (Pandas, Matplotlib).  
-  [Репозиторий](ссылка)
-
-- **[Классификация текстов]** – применение методов NLP, сравнение моделей.  
-  [Репозиторий](ссылка)
-
-### 🏆 Хакатоны и кейс-чемпионаты
-- **Название хакатона** – задача: ...; роль: ...; результат: ...  
-  [Репозиторий](ссылка)
+📜 [Сертификаты и дипломы](ссылка на Google Drive)
 
 ---
 
