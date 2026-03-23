@@ -57,9 +57,8 @@
 
 ## 📫 Контакты
 
-- Telegram: [ссылка]
-- Email: [адрес]
-- LinkedIn: [ссылка]
+- Telegram: @zzwxqce
+- Email: itikhonov06@gmail.com
 
 ---
 
