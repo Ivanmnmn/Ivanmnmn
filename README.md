@@ -4,10 +4,11 @@
 
 Я **Python-разработчик** с сильной математической подготовкой и развиваюсь в направлении **Data Science**. Быстро осваиваю новые технологии, имею опыт управления IT-проектами и стартапом в сфере ИИ. Активно участвую в хакатонах и кейс-чемпионатах, применяю знания к реальным бизнес-задачам.
 
-- 🧠 **Математика и статистика**: мат. анализ, линейная алгебра (Computer Science Center), мат. статистика (Bioinformatics Institute)
-- 📊 **Анализ данных и ML**: Pandas, NumPy, Matplotlib, понимание нейросетей, изучаю sklearn
-- 🐍 **Разработка**: Python, FastAPI, REST API, PostgreSQL, Docker, Git
-- 🛠 **Дополнительно**: Go, JavaScript, HTML/CSS, базовое знакомство с Kubernetes, OpenStack
+-  **Математика и статистика**: мат. анализ, линейная алгебра, мат. статистика
+-  **Анализ данных и ML**: Pandas, NumPy, SciPy, Matplotlib, понимание нейросетей, изучаю sklearn
+-  **Backend**: Python, FastAPI, Kafka, RabbitMQ, Redis, REST API, PostgreSQL
+-  **Frontend**: JavaScript, HTML/CSS
+-  **DevOps**: Kubernetes, OpenStack, Nginx, Docker, Git, Linux(Ubuntu)
 
 ---
 
