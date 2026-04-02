@@ -6,9 +6,9 @@
 
 -  **Математика и статистика**: мат. анализ, линейная алгебра, мат. статистика
 -  **Анализ данных и ML**: Pandas, NumPy, SciPy, Matplotlib, понимание нейросетей, изучаю sklearn
--  **Backend**: Python, FastAPI, Kafka, RabbitMQ, Redis, REST API, PostgreSQL, Pytest
+-  **Backend**: Python, FastAPI, Kafka, RabbitMQ, Redis, REST API, PostgreSQL, Pytest, Socket.io
 -  **Frontend**: JavaScript, HTML/CSS
--  **DevOps**: Kubernetes, OpenStack, Nginx, Docker, Git, Linux(Ubuntu)
+-  **DevOps**: Kubernetes, Nginx, Docker, Git, Linux(Ubuntu)
 
 ---
 
