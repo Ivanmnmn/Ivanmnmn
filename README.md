@@ -5,7 +5,7 @@
 Я - **Data Scientist**. Быстро осваиваю новые технологии, имею опыт управления IT-проектами и стартапом в сфере ИИ. Активно участвую в хакатонах и кейс-чемпионатах, применяю знания к реальным бизнес-задачам.
 
 -  **Математика и статистика**: мат. анализ, линейная алгебра, мат. статистика
--  **Анализ данных и ML**: Pandas, NumPy, SciPy, Matplotlib, понимание нейросетей, изучаю sklearn
+-  **Анализ данных и ML**: Pandas, NumPy, SciPy, Matplotlib, sklearn, изучаю нейросети и Pytorch
 -  **Backend**: Python, FastAPI, Kafka, RabbitMQ, Redis, REST API, PostgreSQL, Pytest, Socket.io
 -  **Frontend**: JavaScript, HTML/CSS
 -  **DevOps**: Kubernetes, Nginx, Docker, Git, Linux(Ubuntu)
